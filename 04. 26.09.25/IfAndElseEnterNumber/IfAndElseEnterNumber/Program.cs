@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Sisesta numbrid 1, 2 või 3");
-
+            //lendavad kanakoivad olid siin
             string nr = Console.ReadLine();
             int number = int.Parse(nr);
             //teha vooskeem e flowchart sellest rakendusest 
